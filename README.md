@@ -24,3 +24,6 @@
  <li>Welcome To The Pure Data Site! // Pure Data URL: https://puredata.info/ (дата обращения: 22.04.2022).</li>
 </ol>
 </p>
+
+<h2>Подробности</h2>
+<p align="justify"><img src="screenshot.jpg" width="50%" height="100%"></p>
