@@ -26,4 +26,4 @@
 </p>
 
 <h2>Подробности</h2>
-<p align="justify"><table align="center"><tr><td align="center"><img src="screenshot.jpg" width="75%" height="100%"></td></tr></table></p>
+<p align="justify"><table align="center"><tr><td align="center"><img src="screenshot.jpg" width="75%" height="100%"></td></tr><tr><td>Скриншот 1 — Общий вид проекта (программы)</td></tr></table></p>
