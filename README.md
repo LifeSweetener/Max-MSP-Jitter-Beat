@@ -1,4 +1,4 @@
-<h1> Max-MSP-Jitter-Beat <h1>
+<h1> Max-MSP-Jitter-Beat </h1>
  <p align="justify">PureData project realizing small music beat.</p>
  <p align="justify">Download an application to run the program: https://puredata.info/downloads.</p>
 
