@@ -26,7 +26,7 @@
 </p>
 
 <h2>Подробности</h2>
-<p align="justify"><table align="center" id="screen1"><tr><td align="center"><img src="screenshot.jpg" width="75%" height="100%"></td></tr><tr><td align="center">Скриншот 1 — Общий вид проекта (программы)</td></tr></table></p>
+<p align="justify"><table align="center" id="screen1"><tr><td align="center"><img src="screenshot.jpg" width="75%" height="100%" alt="Здесь показано Windows-окно текущего проекта PureData"></td></tr><tr><td align="center">Скриншот 1 — Общий вид проекта (программы)</td></tr></table></p>
 
 <p align="justify">На <a href="#screen1">скришноте 1</a> показана программа PureData этого репозитория. Поначалу выглядит непонятно, но не бойтесь — здесь нет ничего страшного!) Вы во всём разберётесь, если оно вам нужно. В программе всего имеется три основных музыкальных линии (три голоса):
  <ol>
@@ -42,4 +42,4 @@
 
 <p align="justify">При запуске мелодии все метрономы нужно сначала включить: установить число в самом верху программы в единицу (см. <a href="#screen2">скриншот 2 ниже</a>).</p>
 
-<p align="justify"><table align="center" id="screen2"><tr><td align="center"><img src="metros.jpg" width="75%" height="100%"></td></tr><tr><td align="center">Скриншот 2 — Выключатель всех метрономов программы</td></tr></table></p>
+<p align="justify"><table align="center" id="screen2"><tr><td align="center"><img src="metros.jpg" width="75%" height="100%" alt="Здесь конкретно изображён этот самый выключатель"></td></tr><tr><td align="center">Скриншот 2 — Выключатель всех метрономов программы</td></tr></table></p>
