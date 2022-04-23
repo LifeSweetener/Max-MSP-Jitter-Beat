@@ -1,6 +1,6 @@
-# Max-MSP-Jitter-Beat
- PureData project realizing small music beat
- Download an application to run the program: https://puredata.info/downloads.
+<h1> Max-MSP-Jitter-Beat <h1>
+ <p align="justify">PureData project realizing small music beat.</p>
+ <p align="justify">Download an application to run the program: https://puredata.info/downloads.</p>
 
 <h2>О PureData</h2>
 <p align="justify"><b>PureData (Pd)</b> — визуальный язык программирования; аналог Max/MSP/Jitter. Предназначен для создания музыкальных проектов, а также разных мультимедийных (видео, изображения и т.п.) и архитектурных (совместно с платформой Arduino) приложений. Программы на PureData (Max) создаются не классическим способом, путём написания текстовых исходников, а визуальной настройкой и перестановкой различных объектов (осцилляторов, фильтров, функций, чисел и т.д.) и их соединением друг с другом.</p>
